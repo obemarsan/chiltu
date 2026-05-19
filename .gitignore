@@ -19,3 +19,7 @@ Thumbs.db
 
 # ZIPs de release (se generan automáticamente vía GitHub Releases)
 *.zip
+
+# PDFs generados de docs/ (artefactos, no fuente)
+docs/*.pdf
+docs/*.bak
