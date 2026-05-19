@@ -16,3 +16,6 @@ Thumbs.db
 /tmp/
 *.tmp
 *.bak
+
+# ZIPs de release (se generan automáticamente vía GitHub Releases)
+*.zip
