@@ -15,7 +15,7 @@ Versión piloto sobre las cuencas **Rímac, Chillón y Lurín** del departamento
 
 ## Vista previa
 
-Atlas interactivo con **88 puntos georreferenciados** y **4 especies** de *Solanum* sect. *Lycopersicon* registradas *in situ* bajo permiso SERFOR AUT-IFL-2025-076.
+Atlas interactivo con **88 puntos georreferenciados** y **4 especies** de *Solanum* sect. *Lycopersicon* registradas *in situ* bajo permiso SERFOR (RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF · código de autorización AUT-IFL-2025-076).
 
 - Cartografía interactiva con filtros por especie y por cuenca
 - Caracterización morfo-anatómica de las 4 especies
@@ -64,7 +64,7 @@ Disponible próximamente en: `https://obemarsan.github.io/chiltu/`
 
 ## Fuente de los datos
 
-Los 88 puntos georreferenciados y todo el contenido científico provienen del informe final del proyecto **RCU 125-2024-UNTELS-CU** ejecutado por el grupo BIOPROSGEN bajo permiso SERFOR **AUT-IFL-2025-076**.
+Los 88 puntos georreferenciados y todo el contenido científico provienen del informe final del proyecto **RCU 125-2024-UNTELS-CU** ejecutado por el grupo BIOPROSGEN bajo permiso SERFOR otorgado mediante **RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF** (código de autorización AUT-IFL-2025-076).
 
 Ver detalle de trazabilidad en [`docs/DATOS_FUENTE.md`](docs/DATOS_FUENTE.md).
 
@@ -94,7 +94,7 @@ Ver detalle de trazabilidad en [`docs/DATOS_FUENTE.md`](docs/DATOS_FUENTE.md).
 ## Licencias
 
 - **Software**: [CC BY-NC 4.0](LICENSE.txt) — uso académico no comercial con atribución.
-- **Datos**: ODbL 1.0 — atribuir BIOPROSGEN-UNTELS y citar SERFOR AUT-IFL-2025-076.
+- **Datos**: ODbL 1.0 — atribuir BIOPROSGEN-UNTELS y citar RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF (cód. autorización AUT-IFL-2025-076).
 - **Documentación**: CC BY 4.0.
 
 ---
@@ -104,7 +104,8 @@ Ver detalle de trazabilidad en [`docs/DATOS_FUENTE.md`](docs/DATOS_FUENTE.md).
 - **INDECOPI** — Pendiente de registro (Mayo–Junio 2026)
 - **Zenodo / DOI** — [10.5281/zenodo.20281485](https://doi.org/10.5281/zenodo.20281485) · publicado 2026-05-19
 - **Proyecto base** — RCU 125-2024-UNTELS-CU (UNTELS, 2024)
-- **Permiso SERFOR** — AUT-IFL-2025-076 / RD 000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF
+- **Permiso SERFOR** — RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF
+- **Código de autorización** — AUT-IFL-2025-076
 
 ---
 

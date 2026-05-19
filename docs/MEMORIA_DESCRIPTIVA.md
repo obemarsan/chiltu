@@ -83,7 +83,7 @@ Los **derechos morales** (paternidad, integridad, divulgación) corresponden de 
 
 ## IV. Resumen ejecutivo
 
-Chiltu es un programa de ordenador desarrollado como aplicación web autocontenida (página única, *single-page application*) cuya finalidad es la visualización interactiva, el análisis comparativo y la exportación estructurada de los datos derivados del proyecto de investigación *"Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú"* (RCU 125-2024-UNTELS-CU), ejecutado por el grupo BIOPROSGEN de la UNTELS bajo permiso del Servicio Nacional Forestal y de Fauna Silvestre (SERFOR) número AUT-IFL-2025-076 (Resolución Directoral D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF).
+Chiltu es un programa de ordenador desarrollado como aplicación web autocontenida (página única, *single-page application*) cuya finalidad es la visualización interactiva, el análisis comparativo y la exportación estructurada de los datos derivados del proyecto de investigación *"Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú"* (RCU 125-2024-UNTELS-CU), ejecutado por el grupo BIOPROSGEN de la UNTELS bajo permiso del Servicio Nacional Forestal y de Fauna Silvestre (SERFOR) otorgado mediante Resolución Directoral RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF, con código de autorización AUT-IFL-2025-076.
 
 El programa permite al usuario:
 
@@ -256,7 +256,7 @@ Los abajo firmantes declaran, bajo juramento, que:
 1. Son los co-autores del programa de ordenador descrito en la presente memoria, con los aportes diferenciados detallados en la Sección II.
 2. El programa es una creación original y no infringe derechos de propiedad intelectual de terceros.
 3. El uso de bibliotecas de terceros se efectúa conforme a sus respectivas licencias, compatibles con la naturaleza académica y no comercial del presente programa.
-4. Los datos científicos visualizados provienen del proyecto base RCU 125-2024-UNTELS-CU, ejecutado bajo permiso SERFOR AUT-IFL-2025-076, dirigido por el Dr. Jacinto Joaquín Vertiz Osores como investigador responsable y con la participación activa de los tres co-firmantes como miembros del grupo BIOPROSGEN.
+4. Los datos científicos visualizados provienen del proyecto base RCU 125-2024-UNTELS-CU, ejecutado bajo permiso SERFOR (RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF · cód. autorización AUT-IFL-2025-076), dirigido por el Dr. Jacinto Joaquín Vertiz Osores como investigador responsable y con la participación activa de los tres co-firmantes como miembros del grupo BIOPROSGEN.
 5. La titularidad de los derechos patrimoniales sobre el software corresponde a los tres co-firmantes en partes iguales.
 6. El Sr. Obert Marín Sánchez queda facultado para tramitar el registro de la obra ante la Dirección de Derecho de Autor del INDECOPI, en representación de los tres co-autores.
 7. La presente declaración se hace para los fines del registro de la obra ante INDECOPI.

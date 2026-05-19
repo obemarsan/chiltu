@@ -10,7 +10,7 @@ Este documento establece la correspondencia entre los datos visualizados por el 
 
 **Resolución de aprobación**: RCU 125-2024-UNTELS-CU (10 de julio de 2024)
 
-**Permiso de colecta**: SERFOR AUT-IFL-2025-076 — Resolución Directoral D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF (7 de agosto de 2025)
+**Permiso de colecta**: Resolución Directoral RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF (SERFOR, 7 de agosto de 2025) — código de autorización AUT-IFL-2025-076
 
 **Grupo ejecutor**: Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN) — Universidad Nacional Tecnológica de Lima Sur.
 

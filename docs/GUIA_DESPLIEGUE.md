@@ -156,7 +156,7 @@ Versión piloto inaugural de Chiltu, atlas digital de diversidad de tomate silve
 - Rubén Armando Daga López (UNTELS)
 - Jacinto Joaquín Vertiz Osores (UNTELS)
 
-Grupo BIOPROSGEN. Proyecto base RCU 125-2024-UNTELS-CU bajo permiso SERFOR AUT-IFL-2025-076.
+Grupo BIOPROSGEN. Proyecto base RCU 125-2024-UNTELS-CU bajo permiso SERFOR mediante RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF (cód. autorización AUT-IFL-2025-076).
 ```
 
 5. **Publish release**

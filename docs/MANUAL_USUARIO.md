@@ -6,7 +6,7 @@
 
 ## 1. Presentación
 
-**Chiltu** es una aplicación web autocontenida diseñada para visualizar, analizar y exportar los datos del proyecto *"Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú"* (RCU 125-2024-UNTELS-CU), ejecutado por el grupo BIOPROSGEN de la Universidad Nacional Tecnológica de Lima Sur bajo permiso del Servicio Nacional Forestal y de Fauna Silvestre (SERFOR) número AUT-IFL-2025-076.
+**Chiltu** es una aplicación web autocontenida diseñada para visualizar, analizar y exportar los datos del proyecto *"Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú"* (RCU 125-2024-UNTELS-CU), ejecutado por el grupo BIOPROSGEN de la Universidad Nacional Tecnológica de Lima Sur bajo permiso del Servicio Nacional Forestal y de Fauna Silvestre (SERFOR) otorgado mediante Resolución Directoral RD D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF (código de autorización AUT-IFL-2025-076).
 
 La aplicación permite al usuario explorar la distribución geográfica de 88 unidades muestrales, identificar las cuatro especies de *Solanum* sect. *Lycopersicon* registradas en el área de estudio, comparar índices ecológicos entre cuencas y exportar los datos en formatos compatibles con sistemas de información geográfica.
 
