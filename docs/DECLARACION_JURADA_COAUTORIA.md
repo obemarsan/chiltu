@@ -32,8 +32,8 @@ El que suscribe,
 
 **Primero.** Ser co-autor del programa de ordenador titulado **"Chiltu — Visualizador científico de diversidad de tomate silvestre (*Solanum* spp.) en las cuencas Rímac, Chillón y Lurín, Lima, Perú"**, versión 1.0.2, conjuntamente con los siguientes co-autores:
 
-- Obert Marín Sánchez · Ph.D.(c)
-- Rubén Armando Daga López · MSc.
+- Obert Marín Sánchez · MSc.
+- Rubén Armando Daga López · Mg.
 - Jacinto Joaquín Vertiz Osores · Dr.
 
 **Segundo.** Reconocer que el aporte autoral diferenciado de cada co-autor a la obra ha sido detallado en la Sección II de la Memoria Descriptiva del software, y que dicha caracterización es fiel a la realidad de las contribuciones efectuadas.

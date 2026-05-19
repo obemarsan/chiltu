@@ -33,7 +33,7 @@ El programa Chiltu es una **obra en co-autoría** desarrollada por tres investig
 | Campo | Valor |
 |-------|-------|
 | Nombre completo | Obert Marín Sánchez |
-| Grado académico | Ph.D.(c) en Biotecnología |
+| Grado académico | MSc. en Biología Molecular y Celular — Inmunología |
 | Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) · Universidad Nacional Mayor de San Marcos (UNMSM) |
 | Grupo de investigación | BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica |
 | Registro CONCYTEC | RENACYT P0005113, Nivel IV |
@@ -46,7 +46,7 @@ El programa Chiltu es una **obra en co-autoría** desarrollada por tres investig
 | Campo | Valor |
 |-------|-------|
 | Nombre completo | Rubén Armando Daga López |
-| Grado académico | MSc. |
+| Grado académico | Mg. |
 | Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) |
 | Grupo de investigación | BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica |
 | Rol en el proyecto base | Co-investigador del proyecto RCU 125-2024-UNTELS-CU |
@@ -271,14 +271,14 @@ Los abajo firmantes declaran, bajo juramento, que:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Obert Marín Sánchez** · Ph.D.(c)
+**Obert Marín Sánchez** · MSc.
 DNI: _______________
 
 <br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Rubén Armando Daga López** · MSc.
+**Rubén Armando Daga López** · Mg.
 DNI: _______________
 
 <br>

@@ -41,12 +41,12 @@ Este documento establece la correspondencia entre los datos visualizados por el 
 | Cuenca hidrográfica | Anexo 1, columna Cuenca |
 | Especie identificada | Anexo 1, columna Especie |
 | Coordenadas UTM 18L (Este, Norte) | Anexo 1, columnas Este y Norte |
-| Fecha de muestreo (puntos 1-60) | XLSX `Especies_Monitoreadas_validado_RDaga.xlsx`, validado por MSc. Rubén Daga López (mayo 2026) |
+| Fecha de muestreo (puntos 1-60) | XLSX `Especies_Monitoreadas_validado_RDaga.xlsx`, validado por Mg. Rubén Daga López (mayo 2026) |
 | Fecha de muestreo (puntos 61-88, Chillón octubre) | Anexo 2 del informe — campañas del 20 y 21 de octubre de 2025 |
 
 ### 2.1.1 Validación cruzada por co-investigador
 
-El archivo `docs/Especies_Monitoreadas_validado_RDaga.xlsx` contiene la versión depurada de los 88 puntos georreferenciados, confirmada por el co-investigador MSc. Rubén Armando Daga López en mayo de 2026. Esta validación cruzada se utilizó para:
+El archivo `docs/Especies_Monitoreadas_validado_RDaga.xlsx` contiene la versión depurada de los 88 puntos georreferenciados, confirmada por el co-investigador Mg. Rubén Armando Daga López en mayo de 2026. Esta validación cruzada se utilizó para:
 
 1. **Confirmar la integridad de coordenadas, altitud, cuenca y asignación de especie** en los 88 puntos. La comparación elemento a elemento entre el XLSX validado y el dataset embebido en `js/data.js` arrojó cero discrepancias.
 2. **Aportar metadatos complementarios** no presentes en el cuerpo principal del informe: fechas de muestreo individualizadas, coordenadas UTM 18L (Este, Norte) y número de identificación secuencial (Nro) de cada punto.
@@ -121,7 +121,7 @@ El programa no representa los resultados de identificación genética por ITS (S
 Los datos primarios del proyecto reposan en:
 
 1. **Informe Final del Proyecto** firmado digitalmente con fecha 30 de diciembre de 2025 (sello FIRMA DIGITAL del Dr. Jacinto Joaquín Vertiz Osores).
-2. **Archivo XLSX `Especies_Monitoreadas.xlsx`** validado por el co-investigador MSc. Rubén Armando Daga López en mayo de 2026, depositado como evidencia adicional en `docs/Especies_Monitoreadas_validado_RDaga.xlsx`.
+2. **Archivo XLSX `Especies_Monitoreadas.xlsx`** validado por el co-investigador Mg. Rubén Armando Daga López en mayo de 2026, depositado como evidencia adicional en `docs/Especies_Monitoreadas_validado_RDaga.xlsx`.
 3. **Archivos de campo originales** custodiados por el grupo BIOPROSGEN.
 4. **Muestras herborizadas** depositadas en el Herbario de la Universidad Nacional Pedro Ruiz Gallo (UNPRG), Institución Científica Nacional Depositaria de Material Biológico (ICNDMB), conforme al artículo 4 del permiso SERFOR.
 
