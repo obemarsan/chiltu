@@ -235,7 +235,7 @@ Cumple los siguientes lineamientos de accesibilidad:
 
 Si utiliza datos o capturas obtenidas desde Chiltu en publicaciones académicas, congresos o documentos institucionales, por favor cite:
 
-> Vertiz Osores, J., Marín Sánchez, O., Vilchez Ochoa, G., Rafael Rutte, R., Rendon Schneir, E., & Daga López, R. (2025). *Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú*. Informe final de proyecto financiado RCU 125-2024-UNTELS-CU. Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur, Villa El Salvador.
+> Vertiz Osores, J., Marín Sánchez, O., Vilchez Ochoa, G., Rafael Rutte, R., Rendon Schneir, E., & Daga López, R. (2025). *Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú*. Informe final de proyecto financiado RCU 125-2024-UNTELS-CU. Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS), Villa El Salvador.
 
 Para el software:
 
@@ -245,7 +245,7 @@ Para el software:
 
 ## 11. Soporte y contacto
 
-Para reportes técnicos, sugerencias de mejora o consultas científicas sobre el contenido, contactar al autor del software a través del Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur.
+Para reportes técnicos, sugerencias de mejora o consultas científicas sobre el contenido, contactar al autor del software a través del Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS).
 
 ---
 

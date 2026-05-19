@@ -12,7 +12,7 @@ Este documento establece la correspondencia entre los datos visualizados por el 
 
 **Permiso de colecta**: SERFOR AUT-IFL-2025-076 — Resolución Directoral D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF (7 de agosto de 2025)
 
-**Grupo ejecutor**: Bioprospección en Salud y Metagenómica Ambiental (BIOPROSGEN) — Universidad Nacional Tecnológica de Lima Sur.
+**Grupo ejecutor**: Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN) — Universidad Nacional Tecnológica de Lima Sur.
 
 **Investigador responsable**: Dr. Jacinto Joaquín Vertiz Osores.
 

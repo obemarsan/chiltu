@@ -25,7 +25,7 @@ const CHILTU_VERSION = '1.0.0';
 const CHILTU_PROJECT = {
   title: 'Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón',
   institution: 'Universidad Nacional Tecnológica de Lima Sur',
-  group: 'BIOPROSGEN — Bioprospección en Salud y Metagenómica Ambiental',
+  group: 'BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica',
   resolution: 'RCU 125-2024-UNTELS-CU',
   permit: 'AUT-IFL-2025-076 SERFOR',
   year: 2025,

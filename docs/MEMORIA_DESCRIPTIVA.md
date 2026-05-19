@@ -35,7 +35,7 @@ El programa Chiltu es una **obra en co-autoría** desarrollada por tres investig
 | Nombre completo | Obert Marín Sánchez |
 | Grado académico | Ph.D.(c) en Biotecnología |
 | Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) · Universidad Nacional Mayor de San Marcos (UNMSM) |
-| Grupo de investigación | BIOPROSGEN — Bioprospección en Salud y Metagenómica Ambiental |
+| Grupo de investigación | BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica |
 | Registro CONCYTEC | RENACYT P0005113, Nivel IV |
 | Identificador ORCID | 0000-0003-2912-1191 |
 | DNI | [a completar antes de firmar] |
@@ -48,7 +48,7 @@ El programa Chiltu es una **obra en co-autoría** desarrollada por tres investig
 | Nombre completo | Rubén Armando Daga López |
 | Grado académico | MSc. |
 | Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) |
-| Grupo de investigación | BIOPROSGEN — Bioprospección en Salud y Metagenómica Ambiental |
+| Grupo de investigación | BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica |
 | Rol en el proyecto base | Co-investigador del proyecto RCU 125-2024-UNTELS-CU |
 | DNI | [a completar antes de firmar] |
 | **Aporte autoral** | Curaduría científica del dataset de 88 puntos georreferenciados · validación cruzada de coordenadas, altitudes, asignaciones de cuenca y de especie · generación del archivo XLSX canónico con metadatos enriquecidos (fechas de muestreo, coordenadas UTM 18L Este/Norte, numeración secuencial de puntos) que constituye una de las piezas documentales del software (depositada como `docs/Especies_Monitoreadas_validado_RDaga.xlsx`) · garantía de integridad científica del contenido visualizado |
@@ -60,7 +60,7 @@ El programa Chiltu es una **obra en co-autoría** desarrollada por tres investig
 | Nombre completo | Jacinto Joaquín Vertiz Osores |
 | Grado académico | Dr. |
 | Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) |
-| Grupo de investigación | BIOPROSGEN — Bioprospección en Salud y Metagenómica Ambiental |
+| Grupo de investigación | BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica |
 | Rol en el proyecto base | Investigador responsable del proyecto RCU 125-2024-UNTELS-CU |
 | DNI | [a completar antes de firmar] |
 | **Aporte autoral** | Elaboración y firma del informe final del proyecto base, fuente primaria de todo el contenido científico visualizado por el software · revisión científica del contenido visualizado (caracterización morfo-anatómica de las cuatro especies, índices ecológicos por cuenca, distribución altitudinal, análisis de abundancia, síntesis de resistomas) · provisión de las fechas de muestreo de los puntos 61-88 (Anexo 2 del informe) que completan el dataset embebido en el software · marco interpretativo de la diversidad de *Solanum* en las tres cuencas hidrográficas |

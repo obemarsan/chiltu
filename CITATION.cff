@@ -33,13 +33,13 @@ authors:
   - family-names: "Marín Sánchez"
     given-names: "Obert"
     orcid: "https://orcid.org/0000-0003-2912-1191"
-    affiliation: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur · Universidad Nacional Mayor de San Marcos"
+    affiliation: "Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS) · Universidad Nacional Mayor de San Marcos"
   - family-names: "Daga López"
     given-names: "Rubén Armando"
-    affiliation: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+    affiliation: "Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS)"
   - family-names: "Vertiz Osores"
     given-names: "Jacinto Joaquín"
-    affiliation: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+    affiliation: "Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS)"
 references:
   - type: report
     title: "Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú"
@@ -58,5 +58,5 @@ references:
         given-names: "Rubén Armando"
     year: 2025
     institution:
-      name: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+      name: "Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS)"
     notes: "Informe final RCU 125-2024-UNTELS-CU"

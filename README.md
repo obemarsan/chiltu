@@ -57,7 +57,7 @@ Disponible próximamente en: `https://obemarsan.github.io/chiltu/`
 | **Rubén Armando Daga López** · MSc. | Curaduría científica del dataset, validación cruzada, generación del XLSX canónico | — |
 | **Jacinto Joaquín Vertiz Osores** · Dr. | Elaboración del informe final del proyecto base, revisión científica del contenido, marco interpretativo | — |
 
-**Grupo**: BIOPROSGEN — Bioprospección en Salud y Metagenómica Ambiental
+**Grupo**: BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica
 **Institución**: Universidad Nacional Tecnológica de Lima Sur (UNTELS)
 
 ---
@@ -73,10 +73,10 @@ Ver detalle de trazabilidad en [`docs/DATOS_FUENTE.md`](docs/DATOS_FUENTE.md).
 ## Cómo citar
 
 **APA 7**
-> Marín Sánchez, O., Daga López, R. A., & Vertiz Osores, J. J. (2026). *Chiltu: Atlas de tomate silvestre del Perú* (Versión 1.0.0) [Software]. Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur.
+> Marín Sánchez, O., Daga López, R. A., & Vertiz Osores, J. J. (2026). *Chiltu: Atlas de tomate silvestre del Perú* (Versión 1.0.0) [Software]. Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN), Universidad Nacional Tecnológica de Lima Sur (UNTELS).
 
 **Vancouver**
-> Marín Sánchez O, Daga López RA, Vertiz Osores JJ. Chiltu: Atlas de tomate silvestre del Perú [software]. Versión 1.0.0. Lima: Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur; 2026.
+> Marín Sánchez O, Daga López RA, Vertiz Osores JJ. Chiltu: Atlas de tomate silvestre del Perú [software]. Versión 1.0.0. Lima: Grupo de Investigación en Bioprospección en Salud Ambiental y Metagenómica (BIOPROSGEN) de la Universidad Nacional Tecnológica de Lima Sur (UNTELS); 2026.
 
 **BibTeX** — disponible en [`CITATION.cff`](CITATION.cff) y dentro del atlas.
 
