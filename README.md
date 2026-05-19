@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-005CB9)](VERSION)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-1357A3)](LICENSE.txt)
 [![SERFOR](https://img.shields.io/badge/SERFOR-AUT--IFL--2025--076-2C5C24)](docs/MEMORIA_DESCRIPTIVA.md)
-[![DOI](https://img.shields.io/badge/DOI-pendiente_Zenodo-9AA1AB)](#cómo-citar)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20281485.svg)](https://doi.org/10.5281/zenodo.20281485)
 
 > *Chiltu* significa **tomate** en quechua cuzqueño. El proyecto honra el origen andino de los parientes silvestres del tomate domesticado: 14 de las 17 especies conocidas del género *Solanum* sect. *Lycopersicon* crecen en territorio peruano.
 
@@ -102,7 +102,7 @@ Ver detalle de trazabilidad en [`docs/DATOS_FUENTE.md`](docs/DATOS_FUENTE.md).
 ## Registros oficiales
 
 - **INDECOPI** — Pendiente de registro (Mayo–Junio 2026)
-- **Zenodo / DOI** — Pendiente de depósito tras release v1.0.0
+- **Zenodo / DOI** — [10.5281/zenodo.20281485](https://doi.org/10.5281/zenodo.20281485) · publicado 2026-05-19
 - **Proyecto base** — RCU 125-2024-UNTELS-CU (UNTELS, 2024)
 - **Permiso SERFOR** — AUT-IFL-2025-076 / RD 000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF
 

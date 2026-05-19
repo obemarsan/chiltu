@@ -185,18 +185,18 @@ Desde este momento, **cada release nuevo en GitHub generará automáticamente un
 
 ### 3.3 Actualizar el README con el DOI real
 
-Una vez que Zenodo asigna el DOI (formato típico: `10.5281/zenodo.XXXXXXX`):
+Una vez que Zenodo asigna el DOI (formato típico: `10.5281/zenodo.20281485`):
 
 1. Editar el README.md y reemplazar el badge `pendiente_Zenodo` por el DOI real:
 
 ```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20281485.svg)](https://doi.org/10.5281/zenodo.20281485)
 ```
 
 2. Actualizar también el archivo `CITATION.cff` añadiendo el DOI:
 
 ```yaml
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.20281485
 ```
 
 3. Hacer commit y push del cambio (sin necesidad de nuevo release).
