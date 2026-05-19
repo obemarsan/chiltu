@@ -12,7 +12,7 @@ Primer lanzamiento público de **Chiltu**: atlas digital de diversidad de tomate
 
 #### Co-autoría inaugural
 
-- **Obert Marín Sánchez** (MSc. · UNTELS-UNMSM · BIOPROSGEN) — arquitectura técnica, programación íntegra del código, diseño visual, documentación.
+- **Obert Marín Sánchez** (MSc. · UNTELS · BIOPROSGEN) — arquitectura técnica, programación íntegra del código, diseño visual, documentación.
 - **Rubén Armando Daga López** (Mg. · UNTELS · BIOPROSGEN) — curaduría científica del dataset, validación cruzada de coordenadas y asignaciones, generación del XLSX canónico con metadatos enriquecidos.
 - **Jacinto Joaquín Vertiz Osores** (Dr. · UNTELS · BIOPROSGEN) — elaboración del informe final del proyecto base, revisión científica del contenido visualizado, marco interpretativo de la diversidad ecológica.
 

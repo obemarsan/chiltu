@@ -34,7 +34,7 @@ El programa Chiltu es una **obra en co-autoría** desarrollada por tres investig
 |-------|-------|
 | Nombre completo | Obert Marín Sánchez |
 | Grado académico | MSc. en Biología Molecular y Celular — Inmunología |
-| Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) · Universidad Nacional Mayor de San Marcos (UNMSM) |
+| Filiación institucional | Universidad Nacional Tecnológica de Lima Sur (UNTELS) |
 | Grupo de investigación | BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica |
 | Registro CONCYTEC | RENACYT P0005113, Nivel IV |
 | Identificador ORCID | 0000-0003-2912-1191 |

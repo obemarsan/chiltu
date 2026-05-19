@@ -152,7 +152,7 @@ Versión piloto inaugural de Chiltu, atlas digital de diversidad de tomate silve
 - 3 cuencas: Rímac, Chillón y Lurín (departamento de Lima)
 
 ## Co-autoría
-- Obert Marín Sánchez (UNTELS-UNMSM)
+- Obert Marín Sánchez (UNTELS)
 - Rubén Armando Daga López (UNTELS)
 - Jacinto Joaquín Vertiz Osores (UNTELS)
 
