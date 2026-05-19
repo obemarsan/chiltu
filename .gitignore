@@ -19,3 +19,6 @@ Thumbs.db
 
 # ZIPs de release (se generan automáticamente vía GitHub Releases)
 *.zip
+
+# ZIPs de release (se generan automáticamente vía GitHub Releases)
+*.zip
