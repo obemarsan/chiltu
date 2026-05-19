@@ -1,0 +1,134 @@
+/**
+ * Chiltu — Design Tokens
+ *
+ * Identidad visual académica moderna, alineada con publicaciones científicas
+ * contemporáneas (Nature, Cell, Science). Tipografía neutra, paleta funcional,
+ * acentos selectivos solo para diferenciación de datos.
+ */
+
+:root {
+  /* === Fondos === */
+  --bg-base: #FFFFFF;
+  --bg-elev: #F8F9FB;
+  --bg-sunken: #F1F3F6;
+
+  /* === Texto === */
+  --fg-primary: #0F1419;
+  --fg-secondary: #3D4651;
+  --fg-tertiary: #6B7480;
+  --fg-quaternary: #9AA1AB;
+  --fg-inverse: #FFFFFF;
+
+  /* === Bordes y reglas === */
+  --rule: #DFE3E8;
+  --rule-strong: #BAC0C8;
+  --rule-soft: #ECEEF2;
+
+  /* === Acento institucional (azul Nature contemporáneo) === */
+  --accent: #005CB9;
+  --accent-soft: #D6E4F4;
+  --accent-deep: #003A75;
+
+  /* === Cuatro especies — colores accesibles WCAG AA === */
+  --sp-c: #2C5C24;
+  --sp-c-soft: #DCEBD4;
+  --sp-c-deep: #15390F;
+
+  --sp-h: #A1591A;
+  --sp-h-soft: #F3DCC1;
+  --sp-h-deep: #5C2F08;
+
+  --sp-p: #B5252C;
+  --sp-p-soft: #F1CECF;
+  --sp-p-deep: #6B1116;
+
+  --sp-n: #5249A0;
+  --sp-n-soft: #DBD7F0;
+  --sp-n-deep: #2A2261;
+
+  /* === Tres cuencas === */
+  --bs-r: #1357A3;
+  --bs-ch: #4287D5;
+  --bs-l: #137A5B;
+
+  /* === Tipografía === */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-serif: 'Source Serif 4', Georgia, serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
+
+  /* === Escala tipográfica (perfecta cuarta) === */
+  --t-xs: 0.75rem;
+  --t-sm: 0.8125rem;
+  --t-base: 0.9375rem;
+  --t-md: 1rem;
+  --t-lg: 1.25rem;
+  --t-xl: 1.5rem;
+  --t-2xl: 1.875rem;
+  --t-3xl: 2.25rem;
+
+  /* === Pesos === */
+  --w-normal: 400;
+  --w-medium: 500;
+  --w-semibold: 600;
+  --w-bold: 700;
+
+  /* === Espaciado (8-point grid) === */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.5rem;
+  --s-6: 2rem;
+  --s-7: 3rem;
+  --s-8: 4rem;
+
+  /* === Bordes === */
+  --b: 1px solid var(--rule);
+  --b-strong: 1px solid var(--rule-strong);
+  --r-xs: 2px;
+  --r-sm: 4px;
+  --r-md: 6px;
+  --r-lg: 8px;
+
+  /* === Anchos === */
+  --max-w: 1180px;
+  --max-w-prose: 72ch;
+
+  /* === Interlineado === */
+  --lh-tight: 1.25;
+  --lh-base: 1.55;
+  --lh-loose: 1.7;
+
+  /* === Sombras === */
+  --shadow-sm: 0 1px 2px rgba(15, 20, 25, 0.04);
+  --shadow-md: 0 2px 8px rgba(15, 20, 25, 0.06);
+}
+
+:root[data-theme="dark"] {
+  --bg-base: #0E1116;
+  --bg-elev: #161B22;
+  --bg-sunken: #1C2128;
+
+  --fg-primary: #E6EDF3;
+  --fg-secondary: #B1BAC4;
+  --fg-tertiary: #7D8590;
+  --fg-quaternary: #515961;
+  --fg-inverse: #0E1116;
+
+  --rule: #2A3038;
+  --rule-strong: #424A55;
+  --rule-soft: #1F242C;
+
+  --accent: #4A9EFF;
+  --accent-soft: #1A2D44;
+  --accent-deep: #79B8FF;
+
+  --sp-c: #7BCB6C;
+  --sp-h: #E89C5C;
+  --sp-p: #ED6B72;
+  --sp-n: #9890DD;
+
+  --bs-r: #6BA8E5;
+  --bs-ch: #4287D5;
+  --bs-l: #4ABC95;
+}

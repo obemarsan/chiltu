@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+title: "Chiltu: Atlas de tomate silvestre del Perú"
+message: "Si utiliza este software, por favor cite este registro y el proyecto base RCU 125-2024-UNTELS-CU."
+type: software
+version: 1.0.0
+date-released: 2026-05-19
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/obemarsan/chiltu"
+abstract: >-
+  Chiltu es un atlas digital de diversidad de tomate silvestre
+  (Solanum spp., sección Lycopersicon) del Perú, en su versión
+  piloto sobre las cuencas Rímac, Chillón y Lurín del departamento
+  de Lima. Documenta 88 puntos georreferenciados y cuatro especies
+  silvestres registradas in situ durante 2024-2025 bajo permiso del
+  Servicio Nacional Forestal y de Fauna Silvestre (SERFOR) número
+  AUT-IFL-2025-076, en el marco del proyecto financiado
+  RCU 125-2024-UNTELS-CU ejecutado por el grupo BIOPROSGEN de la
+  Universidad Nacional Tecnológica de Lima Sur. El software ofrece
+  cartografía interactiva, caracterización morfo-anatómica,
+  análisis ecológico comparativo entre cuencas, distribución por
+  piso altitudinal y exportación de datos en formatos CSV y GeoJSON.
+keywords:
+  - Solanum
+  - tomate silvestre
+  - parientes silvestres de cultivos
+  - biodiversidad
+  - Perú
+  - conservación
+  - recursos genéticos
+  - cuencas hidrográficas
+  - Lima
+authors:
+  - family-names: "Marín Sánchez"
+    given-names: "Obert"
+    orcid: "https://orcid.org/0000-0003-2912-1191"
+    affiliation: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur · Universidad Nacional Mayor de San Marcos"
+  - family-names: "Daga López"
+    given-names: "Rubén Armando"
+    affiliation: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+  - family-names: "Vertiz Osores"
+    given-names: "Jacinto Joaquín"
+    affiliation: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+references:
+  - type: report
+    title: "Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú"
+    authors:
+      - family-names: "Vertiz Osores"
+        given-names: "Jacinto Joaquín"
+      - family-names: "Marín Sánchez"
+        given-names: "Obert"
+      - family-names: "Vilchez Ochoa"
+        given-names: "Guillermo Lorenzo"
+      - family-names: "Rafael Rutte"
+        given-names: "Robert Richard"
+      - family-names: "Rendon Schneir"
+        given-names: "Eric"
+      - family-names: "Daga López"
+        given-names: "Rubén Armando"
+    year: 2025
+    institution:
+      name: "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+    notes: "Informe final RCU 125-2024-UNTELS-CU"

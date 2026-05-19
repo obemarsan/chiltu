@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chiltu — Atlas de tomate silvestre del Perú</title>
+<meta name="description" content="Chiltu: Atlas digital de diversidad de tomate silvestre (Solanum spp.) del Perú. Versión piloto sobre las cuencas Rímac, Chillón y Lurín. Proyecto BIOPROSGEN — UNTELS.">
+<meta name="author" content="Marín Sánchez, Daga López, Vertiz Osores">
+<meta name="keywords" content="Solanum, tomate silvestre, biodiversidad, Perú, parientes silvestres de cultivos, conservación, recursos genéticos">
+
+<!-- Open Graph / citación -->
+<meta property="og:title" content="Chiltu — Atlas de tomate silvestre del Perú">
+<meta property="og:description" content="Atlas digital de diversidad de Solanum silvestre. Cuencas Rímac, Chillón y Lurín.">
+<meta property="og:type" content="website">
+<meta name="citation_title" content="Chiltu: Atlas de tomate silvestre del Perú">
+<meta name="citation_author" content="Marín Sánchez, Obert">
+<meta name="citation_author" content="Daga López, Rubén Armando">
+<meta name="citation_author" content="Vertiz Osores, Jacinto Joaquín">
+<meta name="citation_publication_date" content="2026">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+</head>
+<body>
+
+<header class="site-header" role="banner">
+  <div class="site-header-inner">
+    <div class="brand">
+      <span class="brand-mark">Chiltu</span>
+      <span class="brand-sub">v1.0.0 · piloto RCL</span>
+    </div>
+    <nav class="header-nav" aria-label="Secciones del documento">
+      <a href="#resumen">Resumen</a>
+      <a href="#metodos">Métodos</a>
+      <a href="#cartografia">Cartografía</a>
+      <a href="#especies">Especies</a>
+      <a href="#analisis">Análisis</a>
+      <a href="#citar">Citar</a>
+    </nav>
+    <div class="header-actions">
+      <button class="theme-toggle" id="btn-theme" aria-label="Cambiar tema"></button>
+    </div>
+  </div>
+</header>
+
+<main role="main">
+
+<section class="hero" id="resumen" aria-labelledby="hero-title">
+  <div class="container">
+    <span class="eyebrow">Atlas digital · Solanum sect. Lycopersicon</span>
+    <div class="hero-grid" style="margin-top: 1rem;">
+      <div>
+        <h1 id="hero-title">Chiltu<br><span style="font-weight: 500; color: var(--fg-secondary); font-size: 0.7em;">Atlas de tomate silvestre del Perú</span></h1>
+
+        <p class="hero-lede">Versión piloto sobre las cuencas Rímac, Chillón y Lurín, departamento de Lima. Documenta 88 puntos georreferenciados y cuatro especies de <em>Solanum</em> sect. <em>Lycopersicon</em> registradas <em>in situ</em> bajo permiso del Servicio Nacional Forestal y de Fauna Silvestre (SERFOR).</p>
+
+        <div class="hero-authors">
+          <strong>Obert Marín Sánchez</strong><sup>1,2</sup>,
+          <strong>Rubén A. Daga López</strong><sup>1</sup>,
+          <strong>Jacinto J. Vertiz Osores</strong><sup>1</sup>
+          <br>
+          <span style="color: var(--fg-tertiary); font-size: var(--t-xs); display: block; margin-top: 0.25rem;"><sup>1</sup> Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur · <sup>2</sup> Universidad Nacional Mayor de San Marcos</span>
+        </div>
+      </div>
+
+      <aside class="hero-meta" aria-label="Metadatos del documento">
+        <div class="hero-meta-row"><span class="key">Proyecto</span><span class="val">RCU 125-2024-UNTELS-CU</span></div>
+        <div class="hero-meta-row"><span class="key">Permiso SERFOR</span><span class="val">AUT-IFL-2025-076</span></div>
+        <div class="hero-meta-row"><span class="key">Versión</span><span class="val">1.0.0 · piloto RCL</span></div>
+        <div class="hero-meta-row"><span class="key">Última actualización</span><span class="val tabular">2026-05-19</span></div>
+        <div class="hero-meta-row"><span class="key">Licencia</span><span class="val">CC BY-NC 4.0</span></div>
+        <div class="hero-meta-row"><span class="key">DOI</span><span class="val"><a href="#citar">(pendiente Zenodo)</a></span></div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="metodos" aria-labelledby="metodos-title">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="metodos-title"><span class="section-num">1.</span>Métodos y resumen del estudio</h2>
+    </div>
+
+    <div class="metrics" aria-label="Resumen estadístico del muestreo">
+      <div class="metric">
+        <div class="metric-label">Puntos georreferenciados</div>
+        <div class="metric-value">88</div>
+        <div class="metric-sub">25 distritos · Huarochirí, Canta</div>
+      </div>
+      <div class="metric">
+        <div class="metric-label">Especies registradas</div>
+        <div class="metric-value">4</div>
+        <div class="metric-sub">Solanum sect. Lycopersicon</div>
+      </div>
+      <div class="metric">
+        <div class="metric-label">Individuos contados</div>
+        <div class="metric-value">796</div>
+        <div class="metric-sub">Unidades de 48 m²</div>
+      </div>
+      <div class="metric">
+        <div class="metric-label">Rango altitudinal</div>
+        <div class="metric-value">550–3694</div>
+        <div class="metric-sub">m s.n.m.</div>
+      </div>
+    </div>
+
+    <p style="max-width: 70ch; color: var(--fg-secondary); font-size: var(--t-base);">
+      Los datos provienen del proyecto financiado <strong>RCU 125-2024-UNTELS-CU</strong>, ejecutado durante 2024–2025 por el grupo BIOPROSGEN de la Universidad Nacional Tecnológica de Lima Sur. El muestreo se realizó bajo permiso SERFOR <strong>AUT-IFL-2025-076</strong> (Resolución Directoral D000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF) en 25 distritos de las provincias de Huarochirí y Canta, departamento de Lima. Las muestras herborizadas se depositaron en el Herbario de la Universidad Nacional Pedro Ruiz Gallo (UNPRG). Las identificaciones taxonómicas se confirmaron por caracteres morfo-anatómicos in situ y corroboración del herbario depositario.
+    </p>
+  </div>
+</section>
+
+<section class="section" id="cartografia" aria-labelledby="cartografia-title">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="cartografia-title"><span class="section-num">2.</span>Cartografía</h2>
+      <p>Distribución espacial de las unidades muestrales. Proyección equirectangular sobre WGS84. Cada punto corresponde a una unidad del Anexo 1 del informe final. Los filtros operan dinámicamente sobre el conjunto.</p>
+    </div>
+
+    <div class="filters" role="region" aria-label="Filtros de la cartografía">
+      <div class="filter-group">
+        <span class="filter-label">Especie</span>
+        <button class="chip" data-filter="species" data-value="c" aria-pressed="true">
+          <span class="dot" style="background:var(--sp-c)"></span><span class="sp-name">S. corneliomulleri</span>
+        </button>
+        <button class="chip" data-filter="species" data-value="h" aria-pressed="true">
+          <span class="dot" style="background:var(--sp-h)"></span><span class="sp-name">S. habrochaites</span>
+        </button>
+        <button class="chip" data-filter="species" data-value="p" aria-pressed="true">
+          <span class="dot" style="background:var(--sp-p)"></span><span class="sp-name">S. pimpinellifolium</span>
+        </button>
+        <button class="chip" data-filter="species" data-value="n" aria-pressed="true">
+          <span class="dot" style="background:var(--sp-n)"></span><span class="sp-name">S. pennellii</span>
+        </button>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Cuenca</span>
+        <button class="chip" data-filter="basins" data-value="r" aria-pressed="true">Rímac</button>
+        <button class="chip" data-filter="basins" data-value="ch" aria-pressed="true">Chillón</button>
+        <button class="chip" data-filter="basins" data-value="l" aria-pressed="true">Lurín</button>
+      </div>
+    </div>
+
+    <div class="map-frame" role="region" aria-label="Mapa interactivo">
+      <svg id="map-svg" class="map-svg" viewBox="0 0 800 540" role="img" aria-label="Mapa de 88 puntos de muestreo en tres cuencas de Lima"></svg>
+      <div class="tooltip" id="map-tooltip" role="tooltip" aria-hidden="true"></div>
+      <div class="map-legend">
+        <span>Proyección equirectangular · WGS84 · EPSG:4326</span>
+        <span>11°24′–12°09′ S · 76°17′–76°52′ O</span>
+      </div>
+    </div>
+
+    <p class="table-caption" style="margin-top: var(--s-3);"><b>Figura 1.</b> Distribución geográfica de los 88 puntos de muestreo registrados en las cuencas Rímac (n=26), Chillón (n=39) y Lurín (n=23).</p>
+
+    <div class="map-actions">
+      <button class="btn" id="btn-export-csv" type="button">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+        Exportar CSV
+      </button>
+      <button class="btn" id="btn-export-geojson" type="button">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+        Exportar GeoJSON
+      </button>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="especies" aria-labelledby="especies-title">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="especies-title"><span class="section-num">3.</span>Caracterización taxonómica</h2>
+      <p>Cuatro especies de <em>Solanum</em> sect. <em>Lycopersicon</em> identificadas en el área de estudio. Caracteres morfo-anatómicos según Tabla 2 del informe RCU 125-2024-UNTELS-CU. La síntesis del resistoma corresponde a la Sección 6.5 del mismo informe.</p>
+    </div>
+
+    <div class="species-grid" id="species-grid"></div>
+  </div>
+</section>
+
+<section class="section" id="analisis" aria-labelledby="analisis-title">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="analisis-title"><span class="section-num">4.</span>Análisis ecológico comparativo</h2>
+      <p>Índices de diversidad biológica por cuenca calculados a partir del conteo de individuos. El patrón es consistente: la cuenca del Rímac muestra empobrecimiento por intervención antrópica; la cuenca del Lurín se distingue como refugio de mayor diversidad y uniformidad.</p>
+    </div>
+
+    <div class="basins-grid" id="basins-grid"></div>
+
+    <div class="chart-frame">
+      <div class="chart-title"><b>Figura 2.</b> Abundancia de individuos por especie y cuenca · datos de Tabla 7</div>
+      <div class="chart-canvas-wrap" style="height: 320px;">
+        <canvas id="chart-abundance" role="img" aria-label="Abundancia: Rímac corneliomulleri 262, pimpinellifolium 14; Chillón corneliomulleri 220, habrochaites 97, pennellii 12, pimpinellifolium 9; Lurín corneliomulleri 93, pimpinellifolium 64, habrochaites 17, pennellii 8."></canvas>
+      </div>
+    </div>
+
+    <div class="chart-frame">
+      <div class="chart-title"><b>Figura 3.</b> Distribución por piso altitudinal · datos de Tabla 3</div>
+      <div class="chart-canvas-wrap" style="height: 360px;">
+        <canvas id="chart-altitude" role="img" aria-label="S. corneliomulleri única especie en piso 2800-3500m; habrochaites aparece desde 1800m; las cuatro coexisten solo en piso bajo 550-1799m."></canvas>
+      </div>
+    </div>
+
+    <div class="chart-frame">
+      <div class="chart-title"><b>Figura 4.</b> Índices de diversidad comparados · datos de Tabla 1</div>
+      <div class="chart-canvas-wrap" style="height: 280px;">
+        <canvas id="chart-indices" role="img" aria-label="Comparación Shannon, Simpson, Margalef, Equidad J entre cuencas. Lurín lidera todos los índices; Rímac queda muy por debajo."></canvas>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="identificacion" aria-labelledby="ident-title">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="ident-title"><span class="section-num">5.</span>Identificación rápida en campo</h2>
+      <p>Síntesis de caracteres diagnósticos para distinguir las cuatro especies durante muestreo.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr><th>Especie</th><th>Grupo</th><th>Hábito</th><th>Altitud (m)</th><th>Indumento</th><th>Fruto</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="species-name">S. corneliomulleri</span></td><td>Eriopersicon</td><td>Arbustivo</td><td class="num">1200–3300</td><td>Pubescencia larga densa</td><td>Globoso, verde bandeado, piloso</td></tr>
+          <tr><td><span class="species-name">S. habrochaites</span></td><td>Eriopersicon</td><td>Rastrero</td><td class="num">750–2800</td><td>Muy hirsuto, glandular, olor fuerte</td><td>Pequeño, verde, piloso</td></tr>
+          <tr><td><span class="species-name">S. pimpinellifolium</span></td><td>Lycopersicon</td><td>Arbustiva erecta</td><td class="num">550–1350</td><td>Escasa</td><td>Pequeño, rojo, glabro</td></tr>
+          <tr><td><span class="species-name">S. pennellii</span></td><td>Neolycopersicon</td><td>Arbustivo bajo</td><td class="num">550–2200</td><td>Escasa a moderada</td><td>Pequeño, verde claro, glabro</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="table-caption" style="margin-top: var(--s-2);"><b>Tabla 1.</b> Síntesis de caracteres diagnósticos. Adaptado de Tabla 2 del informe RCU 125-2024-UNTELS-CU.</p>
+  </div>
+</section>
+
+<section class="section" id="citar" aria-labelledby="citar-title">
+  <div class="container">
+    <div class="section-head">
+      <h2 id="citar-title"><span class="section-num">6.</span>Cómo citar este atlas</h2>
+      <p>Si utiliza datos, capturas o el software en publicaciones académicas, congresos o documentos institucionales, por favor cítelo en el formato correspondiente a su área. Tres formatos disponibles a continuación.</p>
+    </div>
+
+    <div class="citation-block">
+      <div class="citation-tabs" role="tablist">
+        <button class="citation-tab active" role="tab" aria-selected="true" data-cit="apa">APA 7</button>
+        <button class="citation-tab" role="tab" data-cit="vanc">Vancouver</button>
+        <button class="citation-tab" role="tab" data-cit="bib">BibTeX</button>
+      </div>
+
+      <div class="citation-content" id="cit-apa">
+        <button class="copy-btn" data-target="cit-apa-text">COPIAR</button>
+        <div id="cit-apa-text">Marín Sánchez, O., Daga López, R. A., &amp; Vertiz Osores, J. J. (2026). <em>Chiltu: Atlas de tomate silvestre del Perú</em> (Versión 1.0.0) [Software]. Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur.</div>
+      </div>
+
+      <div class="citation-content hidden" id="cit-vanc">
+        <button class="copy-btn" data-target="cit-vanc-text">COPIAR</button>
+        <div id="cit-vanc-text">Marín Sánchez O, Daga López RA, Vertiz Osores JJ. Chiltu: Atlas de tomate silvestre del Perú [software]. Versión 1.0.0. Lima: Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur; 2026.</div>
+      </div>
+
+      <div class="citation-content hidden" id="cit-bib">
+        <button class="copy-btn" data-target="cit-bib-text">COPIAR</button>
+<pre id="cit-bib-text">@software{marinsanchez_chiltu_2026,
+  author       = {Mar{\'\i}n S{\'a}nchez, Obert and
+                  Daga L{\'o}pez, Rub{\'e}n Armando and
+                  Vertiz Osores, Jacinto Joaqu{\'\i}n},
+  title        = {{Chiltu: Atlas de tomate silvestre del Per{\'u}}},
+  version      = {1.0.0},
+  year         = {2026},
+  publisher    = {Grupo BIOPROSGEN, UNTELS},
+  url          = {https://github.com/obemarsan/chiltu}
+}</pre>
+      </div>
+    </div>
+
+    <p style="margin-top: var(--s-5); font-size: var(--t-sm); color: var(--fg-tertiary); max-width: 70ch;">Para citar también el proyecto base que generó los datos primarios: Vertiz Osores, J., Marín Sánchez, O., Vilchez Ochoa, G., Rafael Rutte, R., Rendon Schneir, E., &amp; Daga López, R. (2025). <em>Evaluación de la diversidad genética del tomate silvestre (Solanum spp.) en las cuencas de los ríos Lurín, Rímac y Chillón, Lima, Perú</em>. Informe final RCU 125-2024-UNTELS-CU. Grupo BIOPROSGEN, UNTELS.</p>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <strong>Autoría</strong>
+        <p class="author-line"><span style="color: var(--fg-primary); font-weight: 500;">Obert Marín Sánchez</span> · Ph.D.(c)<br><span class="orcid">ORCID 0000-0003-2912-1191</span></p>
+        <p class="author-line" style="margin-top: 0.5rem;"><span style="color: var(--fg-primary); font-weight: 500;">Rubén A. Daga López</span> · MSc.</p>
+        <p class="author-line" style="margin-top: 0.5rem;"><span style="color: var(--fg-primary); font-weight: 500;">Jacinto J. Vertiz Osores</span> · Dr.</p>
+        <p style="margin-top: 0.75rem; color: var(--fg-tertiary); font-size: var(--t-xs);">Grupo BIOPROSGEN — UNTELS</p>
+      </div>
+      <div class="footer-col">
+        <strong>Software</strong>
+        <span>Chiltu v1.0.0</span>
+        <span>Piloto RCL — Cuencas Rímac, Chillón, Lurín</span>
+        <span style="margin-top: 0.75rem; display: block;">Licencia CC BY-NC 4.0</span>
+        <span class="orcid">Datos: ODbL 1.0</span>
+      </div>
+      <div class="footer-col">
+        <strong>Permisos</strong>
+        <span>SERFOR AUT-IFL-2025-076</span>
+        <span>RD 000148-2025-MIDAGRI</span>
+        <span style="margin-top: 0.75rem; display: block;">RCU 125-2024-UNTELS-CU</span>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2025–2026 BIOPROSGEN · UNTELS · Sin fines de lucro</span>
+      <span>chiltu/1.0.0 · construido sin frameworks</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  // Tarjetas de especies
+  const spGrid = document.getElementById('species-grid');
+  ['c', 'h', 'p', 'n'].forEach(code => {
+    const s = SPECIES[code];
+    const card = document.createElement('article');
+    card.className = 'species-card';
+    card.dataset.sp = code;
+    card.innerHTML = `
+      <header class="sp-header">
+        <div>
+          <h4>${s.name}</h4>
+          <span class="sp-authority">${s.authority} · grupo ${s.group}</span>
+        </div>
+        <div class="sp-count">
+          <span class="num">${s.individuals}</span>
+          <span class="lbl">${s.percentage}%</span>
+        </div>
+      </header>
+      <dl class="sp-attrs">
+        <dt>Hábito</dt><dd>${s.habit}</dd>
+        <dt>Altitud</dt><dd>${s.altitude}</dd>
+        <dt>Terreno</dt><dd>${s.terrain}</dd>
+        <dt>Indumento</dt><dd>${s.indument}</dd>
+        <dt>Flores</dt><dd>${s.flowers}</dd>
+        <dt>Fruto</dt><dd>${s.fruit}</dd>
+      </dl>
+      <div class="sp-resistome"><strong>Resistoma destacado</strong>${s.resistome}</div>
+    `;
+    spGrid.appendChild(card);
+  });
+
+  // Tarjetas de cuencas
+  const bsGrid = document.getElementById('basins-grid');
+  ['r', 'ch', 'l'].forEach(code => {
+    const b = BASINS[code];
+    const card = document.createElement('article');
+    card.className = 'basin-card';
+    card.dataset.bs = code;
+    card.innerHTML = `
+      <h4>Cuenca del ${b.name}</h4>
+      <div class="basin-meta">${b.points} puntos · ${b.individuals} ind. · ${b.speciesCount}/4 spp.</div>
+      <div class="basin-indices">
+        <div class="idx-row"><span class="key">Shannon</span><span class="val">${b.indices.shannon.toFixed(3)}</span></div>
+        <div class="idx-row"><span class="key">Simpson</span><span class="val">${b.indices.simpson.toFixed(3)}</span></div>
+        <div class="idx-row"><span class="key">Margalef</span><span class="val">${b.indices.margalef.toFixed(3)}</span></div>
+        <div class="idx-row"><span class="key">Equidad J</span><span class="val">${b.indices.evenness.toFixed(3)}</span></div>
+        <div class="idx-row"><span class="key">Dominancia</span><span class="val">${b.indices.dominance.toFixed(3)}</span></div>
+        <div class="idx-row"><span class="key">Berger-P.</span><span class="val">${b.indices.bergerParker.toFixed(3)}</span></div>
+      </div>
+      <p class="basin-note">${b.note}</p>
+    `;
+    bsGrid.appendChild(card);
+  });
+
+  // Tabs de citación
+  document.querySelectorAll('.citation-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const target = tab.dataset.cit;
+      document.querySelectorAll('.citation-tab').forEach(t => {
+        t.classList.toggle('active', t.dataset.cit === target);
+        t.setAttribute('aria-selected', t.dataset.cit === target);
+      });
+      document.querySelectorAll('.citation-content').forEach(c => {
+        c.classList.toggle('hidden', c.id !== `cit-${target}`);
+      });
+    });
+  });
+
+  // Botones copy
+  document.querySelectorAll('.copy-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const targetId = btn.dataset.target;
+      const text = document.getElementById(targetId).innerText.trim();
+      try {
+        await navigator.clipboard.writeText(text);
+        btn.textContent = '✓ COPIADO';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = 'COPIAR';
+          btn.classList.remove('copied');
+        }, 2000);
+      } catch (e) {
+        btn.textContent = 'ERROR';
+        setTimeout(() => btn.textContent = 'COPIAR', 2000);
+      }
+    });
+  });
+});
+</script>
+
+<script src="js/data.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/map.js"></script>
+<script src="js/export.js"></script>
+<script src="vendor/chart.umd.min.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

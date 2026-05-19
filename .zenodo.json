@@ -1,0 +1,54 @@
+{
+  "title": "Chiltu: Atlas de tomate silvestre del Perú",
+  "description": "<p><strong>Chiltu</strong> es un atlas digital de diversidad de tomate silvestre (<em>Solanum</em> spp., sección <em>Lycopersicon</em>) del Perú, en su versión piloto sobre las cuencas Rímac, Chillón y Lurín del departamento de Lima.</p><p>Documenta <strong>88 puntos georreferenciados</strong> y <strong>cuatro especies silvestres</strong> registradas <em>in situ</em> durante 2024-2025 bajo permiso del Servicio Nacional Forestal y de Fauna Silvestre (SERFOR) número AUT-IFL-2025-076, en el marco del proyecto financiado RCU 125-2024-UNTELS-CU ejecutado por el grupo BIOPROSGEN de la Universidad Nacional Tecnológica de Lima Sur.</p><p>El software ofrece cartografía interactiva, caracterización morfo-anatómica, análisis ecológico comparativo entre cuencas (índices Shannon, Simpson, Margalef, Berger-Parker), distribución por piso altitudinal y exportación de datos en formatos CSV y GeoJSON.</p><p>El nombre <em>Chiltu</em> significa &quot;tomate&quot; en quechua cuzqueño, en honor al origen andino de los parientes silvestres del tomate domesticado: 14 de las 17 especies conocidas del género <em>Solanum</em> sect. <em>Lycopersicon</em> crecen en territorio peruano.</p>",
+  "creators": [
+    {
+      "name": "Marín Sánchez, Obert",
+      "affiliation": "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur",
+      "orcid": "0000-0003-2912-1191"
+    },
+    {
+      "name": "Daga López, Rubén Armando",
+      "affiliation": "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+    },
+    {
+      "name": "Vertiz Osores, Jacinto Joaquín",
+      "affiliation": "Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur"
+    }
+  ],
+  "keywords": [
+    "Solanum",
+    "tomate silvestre",
+    "wild tomato",
+    "parientes silvestres de cultivos",
+    "crop wild relatives",
+    "biodiversidad",
+    "Perú",
+    "conservación",
+    "recursos genéticos",
+    "Lycopersicon",
+    "cuencas hidrográficas",
+    "Lima",
+    "Rímac",
+    "Chillón",
+    "Lurín",
+    "SERFOR"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "spa",
+  "communities": [
+    {"identifier": "biodiversity"}
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "RCU 125-2024-UNTELS-CU",
+      "resource_type": "publication-report",
+      "scheme": "other"
+    }
+  ],
+  "grants": [],
+  "notes": "Permiso SERFOR AUT-IFL-2025-076 (RD 000148-2025-MIDAGRI-SERFOR-DGGSPFFS-DGSPF). Pendiente de registro ante INDECOPI."
+}

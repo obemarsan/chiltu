@@ -1,0 +1,121 @@
+SolanumAtlas RCL — Términos de uso
+===================================
+
+Copyright (c) 2025 Obert Marín Sánchez
+Co-titularidad institucional: Universidad Nacional Tecnológica de Lima Sur (UNTELS)
+
+Versión 1.0 · Diciembre 2025
+
+------------------------------------------------------------------------
+
+1. ALCANCE Y NATURALEZA
+
+   SolanumAtlas RCL es un programa de ordenador de carácter académico, sin
+   fines de lucro, desarrollado como herramienta de visualización científica
+   y divulgación de los resultados del proyecto de investigación RCU
+   125-2024-UNTELS-CU, ejecutado por el grupo BIOPROSGEN de la UNTELS bajo
+   permiso SERFOR AUT-IFL-2025-076.
+
+2. USOS PERMITIDOS
+
+   Se autoriza el uso del programa para los siguientes fines, sin contra-
+   prestación económica:
+
+   a) Consulta y exploración por parte de investigadores, estudiantes,
+      docentes y público general interesado.
+
+   b) Empleo como recurso didáctico en cursos de pregrado y posgrado en
+      disciplinas afines (ecología, biotecnología, agronomía, conservación
+      de recursos genéticos, biología molecular, gestión ambiental).
+
+   c) Inclusión en presentaciones académicas, conferencias y congresos
+      científicos, con la cita debida.
+
+   d) Reproducción del software en entornos institucionales (universidades,
+      centros de investigación, organismos públicos) para fines no
+      comerciales.
+
+3. USOS RESTRINGIDOS
+
+   Los siguientes usos requieren autorización previa, expresa y por escrito
+   del autor y de la UNTELS:
+
+   a) Explotación comercial directa o indirecta del programa o de sus
+      componentes.
+
+   b) Distribución del programa modificado bajo otro nombre o marca.
+
+   c) Incorporación del código fuente o de componentes sustanciales del
+      programa en productos comerciales de terceros.
+
+   d) Uso de los datos científicos visualizados con propósitos distintos a
+      la conservación, la docencia y la investigación académica no
+      comercial.
+
+4. ATRIBUCIÓN
+
+   Toda obra derivada, mención, captura, cita o referencia al programa
+   deberá incluir, como mínimo:
+
+      - Nombre del software: SolanumAtlas RCL
+      - Versión utilizada
+      - Autor: Obert Marín Sánchez
+      - Institución de adscripción: UNTELS — BIOPROSGEN
+      - Referencia al permiso SERFOR AUT-IFL-2025-076
+
+   Cita académica sugerida:
+
+      Marín Sánchez, O. (2025). SolanumAtlas RCL: Visualizador científico
+      de diversidad de tomate silvestre en las cuencas Rímac, Chillón y
+      Lurín [Software, versión 1.0]. Universidad Nacional Tecnológica de
+      Lima Sur.
+
+5. DERECHOS MORALES
+
+   Los derechos morales sobre el programa, incluidos los de paternidad,
+   integridad y divulgación, corresponden de manera intransferible al autor
+   conforme al artículo 22 del Decreto Legislativo 822 (Ley sobre el
+   Derecho de Autor del Perú) y sus modificatorias.
+
+6. DATOS CIENTÍFICOS
+
+   Los datos científicos visualizados por el programa provienen del informe
+   final del proyecto RCU 125-2024-UNTELS-CU. La trazabilidad y atribución
+   de los datos primarios se documenta en el archivo docs/DATOS_FUENTE.md.
+
+   El uso de los datos para investigación posterior debe respetar los
+   términos del permiso SERFOR AUT-IFL-2025-076 y las normas peruanas sobre
+   acceso a recursos genéticos.
+
+7. AUSENCIA DE GARANTÍAS
+
+   El programa se proporciona "tal como está", sin garantía explícita o
+   implícita de ningún tipo, incluidas, entre otras, las garantías de
+   comerciabilidad, idoneidad para un propósito particular y no
+   infracción. En ningún caso el autor o la institución de adscripción
+   serán responsables por reclamos, daños u otras responsabilidades
+   derivados del uso del programa.
+
+8. BIBLIOTECAS DE TERCEROS
+
+   El programa utiliza la biblioteca Chart.js (versión 4.4.1), distribuida
+   bajo licencia MIT, y fuentes tipográficas distribuidas bajo SIL Open
+   Font License. Los derechos de estos componentes corresponden a sus
+   respectivos autores.
+
+9. JURISDICCIÓN
+
+   Para cualquier controversia derivada de la interpretación o aplicación
+   de los presentes términos, las partes se someten a la legislación
+   peruana aplicable en materia de propiedad intelectual y a la
+   jurisdicción de los tribunales de la ciudad de Lima.
+
+10. CONTACTO
+
+    Para solicitudes de autorización de usos restringidos, sugerencias o
+    consultas sobre los presentes términos, contactar al autor a través
+    del Grupo BIOPROSGEN, Universidad Nacional Tecnológica de Lima Sur.
+
+------------------------------------------------------------------------
+
+Lima, diciembre de 2025.
