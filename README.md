@@ -54,8 +54,8 @@ Disponible próximamente en: `https://obemarsan.github.io/chiltu/`
 | Co-autor | Aporte principal | ORCID |
 |----------|------------------|-------|
 | **Obert Marín Sánchez** · MSc. | Arquitectura, programación íntegra del código, diseño visual, documentación técnica | [0000-0003-2912-1191](https://orcid.org/0000-0003-2912-1191) |
-| **Rubén Armando Daga López** · Mg. | Curaduría científica del dataset, validación cruzada, generación del XLSX canónico | — |
-| **Jacinto Joaquín Vertiz Osores** · Dr. | Elaboración del informe final del proyecto base, revisión científica del contenido, marco interpretativo | — |
+| **Rubén Armando Daga López** · Mg. | Curaduría científica del dataset, validación cruzada, generación del XLSX canónico | [0000-0002-3105-1594](https://orcid.org/0000-0002-3105-1594) |
+| **Jacinto Joaquín Vertiz Osores** · Dr. | Elaboración del informe final del proyecto base, revisión científica del contenido, marco interpretativo | [0000-0003-2774-1207](https://orcid.org/0000-0003-2774-1207) |
 
 **Grupo**: BIOPROSGEN — Bioprospección en Salud Ambiental y Metagenómica
 **Institución**: Universidad Nacional Tecnológica de Lima Sur (UNTELS)
