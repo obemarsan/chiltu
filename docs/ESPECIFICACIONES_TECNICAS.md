@@ -11,31 +11,31 @@ Chiltu es una **aplicación web estática de página única** (*static single-pa
 ### 1.1 Diagrama lógico
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    Navegador del usuario                     │
-│                                                              │
-│  ┌──────────────┐   ┌──────────────┐   ┌──────────────┐    │
-│  │  index.html  │ → │  CSS tokens  │ → │  CSS layout  │    │
-│  │  (semantic)  │   │  (variables) │   │  (presentación)│  │
-│  └──────────────┘   └──────────────┘   └──────────────┘    │
-│         │                                                    │
-│         ↓                                                    │
-│  ┌──────────────────────────────────────────────────┐       │
-│  │              Capa de datos (data.js)              │       │
-│  │   POINTS · SPECIES · BASINS · ABUNDANCE · etc.   │       │
-│  └──────────────────────────────────────────────────┘       │
-│         │                                                    │
-│         ├──→ filters.js (Observable FilterState)             │
-│         ├──→ map.js (SVG + proyección + tooltips)            │
-│         ├──→ charts.js (Chart.js wrapper)                    │
-│         ├──→ export.js (serializers CSV / GeoJSON)           │
-│         └──→ main.js (bootstrap + theme)                     │
-│                                                              │
-│  ┌──────────────────────────────────────────────────┐       │
-│  │           Recursos externos (vía CDN)             │       │
-│  │   Chart.js 4.4.1 · Fraunces · DM Sans · JetBrains │       │
-│  └──────────────────────────────────────────────────┘       │
-└─────────────────────────────────────────────────────────────┘
++-------------------------------------------------------------+
+|                    Navegador del usuario                     |
+|                                                              |
+|  +--------------+   +--------------+   +--------------+    |
+|  |  index.html  | -> |  CSS tokens  | -> |  CSS layout  |    |
+|  |  (semantic)  |   |  (variables) |   |  (presentación)|  |
+|  +--------------+   +--------------+   +--------------+    |
+|         |                                                    |
+|         v                                                    |
+|  +--------------------------------------------------+       |
+|  |              Capa de datos (data.js)              |       |
+|  |   POINTS · SPECIES · BASINS · ABUNDANCE · etc.   |       |
+|  +--------------------------------------------------+       |
+|         |                                                    |
+|         +---> filters.js (Observable FilterState)             |
+|         +---> map.js (SVG + proyección + tooltips)            |
+|         +---> charts.js (Chart.js wrapper)                    |
+|         +---> export.js (serializers CSV / GeoJSON)           |
+|         +---> main.js (bootstrap + theme)                     |
+|                                                              |
+|  +--------------------------------------------------+       |
+|  |           Recursos externos (vía CDN)             |       |
+|  |   Chart.js 4.4.1 · Fraunces · DM Sans · JetBrains |       |
+|  +--------------------------------------------------+       |
++-------------------------------------------------------------+
 ```
 
 ### 1.2 Flujo de inicialización
@@ -43,7 +43,7 @@ Chiltu es una **aplicación web estática de página única** (*static single-pa
 1. El navegador carga `index.html`.
 2. Se cargan en cascada `tokens.css` y `main.css` (presentación).
 3. Se cargan secuencialmente los módulos JavaScript en orden de dependencia:
-   `data.js` → `filters.js` → `map.js` → `export.js` → Chart.js (CDN) → `charts.js` → `main.js`.
+   `data.js` -> `filters.js` -> `map.js` -> `export.js` -> Chart.js (CDN) -> `charts.js` -> `main.js`.
 4. El evento `DOMContentLoaded` dispara `bootstrap()` en `main.js`.
 5. `bootstrap()` inicializa secuencialmente:
    - Tema (Theme.init)
@@ -117,8 +117,8 @@ El mapa se renderiza inline como SVG (`<svg viewBox="0 0 800 540">`). Componente
 ### 3.3 Interacción
 
 Cada punto del mapa dispara los eventos:
-- `mouseenter` y `focus` → mostrar tooltip
-- `mouseleave` y `blur` → ocultar tooltip
+- `mouseenter` y `focus` -> mostrar tooltip
+- `mouseleave` y `blur` -> ocultar tooltip
 
 Los puntos son focalizables por teclado (`tabindex="0"`) y poseen `role="button"` con `aria-label` descriptivo.
 
@@ -265,20 +265,20 @@ El programa cumple los siguientes lineamientos de WCAG 2.1 nivel AA:
 
 | Caso de prueba | Resultado |
 |----------------|-----------|
-| Carga inicial sin errores en consola | ✓ |
-| Renderizado de 88 puntos | ✓ |
-| Activación/desactivación de filtros por especie | ✓ |
-| Activación/desactivación de filtros por cuenca | ✓ |
-| Restricción de no permitir todos desactivados | ✓ |
-| Tooltip al hover sobre punto | ✓ |
-| Tooltip al focus por teclado | ✓ |
-| Generación de CSV con filtros activos | ✓ |
-| Generación de GeoJSON con filtros activos | ✓ |
-| Cambio de tema claro / oscuro | ✓ |
-| Persistencia del tema entre sesiones | ✓ |
-| Reinicialización de gráficos al cambiar tema | ✓ |
-| Responsividad en anchos desde 320 px | ✓ |
-| Apertura directa con `file://` | ✓ |
+| Carga inicial sin errores en consola | [OK] |
+| Renderizado de 88 puntos | [OK] |
+| Activación/desactivación de filtros por especie | [OK] |
+| Activación/desactivación de filtros por cuenca | [OK] |
+| Restricción de no permitir todos desactivados | [OK] |
+| Tooltip al hover sobre punto | [OK] |
+| Tooltip al focus por teclado | [OK] |
+| Generación de CSV con filtros activos | [OK] |
+| Generación de GeoJSON con filtros activos | [OK] |
+| Cambio de tema claro / oscuro | [OK] |
+| Persistencia del tema entre sesiones | [OK] |
+| Reinicialización de gráficos al cambiar tema | [OK] |
+| Responsividad en anchos desde 320 px | [OK] |
+| Apertura directa con `file://` | [OK] |
 
 ### 11.2 Pruebas de compatibilidad
 
